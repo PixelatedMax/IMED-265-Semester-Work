@@ -1,0 +1,38 @@
+/*Mario Party Title*/
+h1 {
+    font-size: 48px;
+    color: white;
+    background-color: #DF4848;
+    border-style:groove;
+    border-width: 15px;
+    border-color: #204F91; 
+    padding: 4px;
+}
+/*Superstars image*/
+div {  
+    border: none;  
+}  
+img{  
+    height: auto;  
+    width: 75%;  
+}  
+#centerimage {
+    text-align: center;
+}
+/*NEW GAME! BUY NOW*/
+.buy {
+    text-align: right
+}
+/*EXPLORE*/
+.explore {
+    color: white;
+    background: #204F91;
+}
+.about {
+    background: #F6EEEE;
+    text-align: right;
+}
+a {
+    text-align: center;
+    font-size: 20px;
+}
